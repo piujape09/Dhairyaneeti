@@ -24,11 +24,11 @@ const ContactUs = () => {
                 {/* Event Coordinators */}
                 <div className="mb-6 text-left">
                     <h3 className="text-xl font-semibold text-[#E6C28B]">👤 Event Coordinators:</h3>
-                    <p className="font-medium text-[#FFD700]">Yash Patil</p>
-                    <p>📞 +91 72187 04350</p>
+                    <p className="font-medium text-[#FFD700]">Shreya Patil</p>
+                    <p>📞 +91 98812 53332</p>
 
-                    <p className="font-medium text-[#FFD700] mt-2">Khushi Rane</p>
-                    <p>📞 +91 97655 96486</p>
+                    <p className="font-medium text-[#FFD700] mt-2">Omanand Swami</p>
+                    <p>📞 +91 94223 08688</p>
                 </div>
 
 
